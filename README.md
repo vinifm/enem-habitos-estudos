@@ -2,7 +2,7 @@
 
 Este documento especifica o projeto em desenvolvimento pelo nosso grupo como produto das disciplinas: **Projeto Integrado** e **Banco de Dados**.
 
-Link do dataset usado: [Microdados do ENEM 2022](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem)
+Os dados usados foram os [Microdados do ENEM 2022](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem)
 
 ## **Descrição do Projeto**
 
@@ -12,7 +12,7 @@ O seguinte projeto consiste em sistematizar as técnicas apresentadas nas disici
 
 ## **Metódo**
 
-O projeto deve seguir o seguinte método:
+O projeto seguiu o seguinte método:
 
 ### Entendimento do negócio:
 - 1. Oferecer uma contextualização do contexto do negócio e da necessidade da solução que seu grupo irá propor.
